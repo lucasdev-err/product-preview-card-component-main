@@ -7,17 +7,13 @@
     color: hsl(228, 12%, 48%);
     font-size: 14px;
 }
-
 .Fraunces{
     font-family: 'fraunces', sans-serif;
 }
-
-
 body{
     margin: 15% 25% 15% 30%;
     background-color: hsl(30, 38%, 92%);
 }
-
 .main{
     border-radius: 2%;
     display: flex;
@@ -26,38 +22,28 @@ body{
     height: 28em;
     width: 37em;
 }
-
 .mainImg img{
     height: 100%;
     border-radius: 2%;
 }
-
 .mainContent{
     margin-left: 2.5em;
     margin-top: 1.5em;
     margin-right: 5%;
 }
-
-.contentText {
-    
-}
-
 .contentCart{
     display: flex;
     flex-direction: column;
 }
-
 .cartPrice{
     display: flex;
     flex-direction: row;
 }
-
 #currentPrice{
     color: hsl(158, 36%, 37%);
     margin: .5em 1em .4em .5em;
     font-size: 30px;
 }
-
 .addCart{
     background-color: hsl(158, 36%, 37%);
     text-align: center;

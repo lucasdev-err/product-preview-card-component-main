@@ -11,14 +11,14 @@
     font-family: 'fraunces', sans-serif;
 }
 body{
-    margin-top: 200px;
+    min-height:100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     background-color: hsl(30, 38%, 92%);
 }
-.main{
+main{
     border-radius: 2%;
     display: flex;
     flex-direction: row;
